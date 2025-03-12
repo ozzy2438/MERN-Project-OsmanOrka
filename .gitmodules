@@ -1,0 +1,12 @@
+[submodule "part-a-docs"]
+	path = part-a-docs
+	url = https://github.com/ozzy2438/Part-A-Docs.git
+[submodule "docs"]
+	path = docs
+	url = https://github.com/ozzy2438/Part-A-Docs.git
+[submodule "server"]
+	path = server
+	url = https://github.com/ozzy2438/Server.git
+[submodule "client"]
+	path = client
+	url = https://github.com/ozzy2438/Client.git
