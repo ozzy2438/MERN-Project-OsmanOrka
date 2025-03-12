@@ -10,3 +10,6 @@
 [submodule "client"]
 	path = client
 	url = https://github.com/ozzy2438/Client.git
+[submodule "full-mern-project"]
+	path = full-mern-project
+	url = https://github.com/ozzy2438/Full-MERN-Project.git
